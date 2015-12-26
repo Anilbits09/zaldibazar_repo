@@ -3,10 +3,10 @@
   "use strict";
 
 //Remove loading-wrapper class before window load
-setTimeout(function(){
-  $('.loading-wrapper').removeClass('loading-wrapper-hide');
-  return false;
-}, 10);
+// setTimeout(function(){
+//   $('.loading-wrapper').removeClass('loading-wrapper-hide');
+//   return false;
+// }, 10);
 
 
 //======= Run on Window Load ============

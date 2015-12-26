@@ -999,7 +999,7 @@ body:after {
   text-shadow: 1px 2px 0px rgba(0, 0, 0, 0.3);
   min-height: 500px;
   position: absolute;
-  top: 38%;
+  top: 10%;
   font-family: 'Montserrat', sans-serif;
 }
 @media (min-width: 768px) {
